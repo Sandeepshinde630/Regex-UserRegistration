@@ -16,6 +16,8 @@ namespace User_Registration_Regex
             Console.WriteLine(result2);
             bool result3 = userRegistration.validateMobileNumber("91 7757343443");
             Console.WriteLine(result3);
+            bool result4 = userRegistration.validatePasswordRule1("Sandeep123");
+            Console.WriteLine(result4);
         }
     }
 }
