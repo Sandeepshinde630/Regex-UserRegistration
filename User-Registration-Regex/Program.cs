@@ -14,6 +14,8 @@ namespace User_Registration_Regex
             Console.WriteLine(result1);
             bool result2 = userRegistration.validateEmail("sandeepshinde630@gmail.com");
             Console.WriteLine(result2);
+            bool result3 = userRegistration.validateMobileNumber("91 7757343443");
+            Console.WriteLine(result3);
         }
     }
 }
