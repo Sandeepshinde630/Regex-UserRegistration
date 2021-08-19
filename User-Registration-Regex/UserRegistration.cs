@@ -13,6 +13,8 @@ namespace User_Registration_Regex
         public static string MobileNo = "^[0-9]{2}[ ][1-9][0-9]{9}$";
         public static string PasswordRule1 = "^[a-z0-9A-Z]{8}";
         public static string PasswordRule2 = "[A-Z]+[a-z]{8}";
+        public static string PasswordRule3 = "^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%^&-+=()])(?=\\S+$).{8,20}$";
+
 
 
         public bool validateUserInfo(string input)
@@ -38,6 +40,10 @@ namespace User_Registration_Regex
         public bool validatePasswordRule2(string input)
         {
             return Regex.IsMatch(input, PasswordRule2);
+        }
+        public bool validatePasswordRule3(string input)
+        {
+            return Regex.IsMatch(input, PasswordRule3);
         }
     }
 }

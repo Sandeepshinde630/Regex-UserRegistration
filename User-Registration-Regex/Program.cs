@@ -20,6 +20,8 @@ namespace User_Registration_Regex
             Console.WriteLine(result4);
             bool result5 = userRegistration.validatePasswordRule2("Sandeepshinde");
             Console.WriteLine(result5);
+            bool result6 = userRegistration.validatePasswordRule3("Sandeep@shinde1");
+            Console.WriteLine(result6);
         }
     }
 }
