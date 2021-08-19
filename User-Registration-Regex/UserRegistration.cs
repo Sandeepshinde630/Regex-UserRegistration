@@ -12,6 +12,7 @@ namespace User_Registration_Regex
         public static string Email = "^[a-z]+([._+-]*[a-z0-9]+)*[@][a-z0-9]+[.][a-z]{2,3}(.[a-z]{2})?$";
         public static string MobileNo = "^[0-9]{2}[ ][1-9][0-9]{9}$";
         public static string PasswordRule1 = "^[a-z0-9A-Z]{8}";
+        public static string PasswordRule2 = "[A-Z]+[a-z]{8}";
 
 
         public bool validateUserInfo(string input)
@@ -33,6 +34,10 @@ namespace User_Registration_Regex
         public bool validatePasswordRule1(string input)
         {
             return Regex.IsMatch(input, PasswordRule1);
+        }
+        public bool validatePasswordRule2(string input)
+        {
+            return Regex.IsMatch(input, PasswordRule2);
         }
     }
 }
