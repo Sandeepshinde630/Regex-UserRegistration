@@ -1,0 +1,13 @@
+C:\Users\Sandeep\Desktop\CSharp\User-Registration-Regex\User-Registration-Regex\bin\Debug\netcoreapp3.1\User-Registration-Regex.exe
+C:\Users\Sandeep\Desktop\CSharp\User-Registration-Regex\User-Registration-Regex\bin\Debug\netcoreapp3.1\User-Registration-Regex.deps.json
+C:\Users\Sandeep\Desktop\CSharp\User-Registration-Regex\User-Registration-Regex\bin\Debug\netcoreapp3.1\User-Registration-Regex.runtimeconfig.json
+C:\Users\Sandeep\Desktop\CSharp\User-Registration-Regex\User-Registration-Regex\bin\Debug\netcoreapp3.1\User-Registration-Regex.runtimeconfig.dev.json
+C:\Users\Sandeep\Desktop\CSharp\User-Registration-Regex\User-Registration-Regex\bin\Debug\netcoreapp3.1\User-Registration-Regex.dll
+C:\Users\Sandeep\Desktop\CSharp\User-Registration-Regex\User-Registration-Regex\bin\Debug\netcoreapp3.1\User-Registration-Regex.pdb
+C:\Users\Sandeep\Desktop\CSharp\User-Registration-Regex\User-Registration-Regex\obj\Debug\netcoreapp3.1\User-Registration-Regex.csproj.AssemblyReference.cache
+C:\Users\Sandeep\Desktop\CSharp\User-Registration-Regex\User-Registration-Regex\obj\Debug\netcoreapp3.1\User-Registration-Regex.AssemblyInfoInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\User-Registration-Regex\User-Registration-Regex\obj\Debug\netcoreapp3.1\User-Registration-Regex.AssemblyInfo.cs
+C:\Users\Sandeep\Desktop\CSharp\User-Registration-Regex\User-Registration-Regex\obj\Debug\netcoreapp3.1\User-Registration-Regex.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\User-Registration-Regex\User-Registration-Regex\obj\Debug\netcoreapp3.1\User-Registration-Regex.dll
+C:\Users\Sandeep\Desktop\CSharp\User-Registration-Regex\User-Registration-Regex\obj\Debug\netcoreapp3.1\User-Registration-Regex.pdb
+C:\Users\Sandeep\Desktop\CSharp\User-Registration-Regex\User-Registration-Regex\obj\Debug\netcoreapp3.1\User-Registration-Regex.genruntimeconfig.cache
