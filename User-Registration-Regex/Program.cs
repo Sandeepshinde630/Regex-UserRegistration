@@ -10,6 +10,8 @@ namespace User_Registration_Regex
             UserRegistration userRegistration = new UserRegistration();
             bool result =userRegistration.validateUserInfo("Sandeep");
             Console.WriteLine(result);
+            bool result1 = userRegistration.validateLastName("Shinde");
+            Console.WriteLine(result1);
         }
     }
 }
