@@ -12,6 +12,8 @@ namespace User_Registration_Regex
             Console.WriteLine(result);
             bool result1 = userRegistration.validateLastName("Shinde");
             Console.WriteLine(result1);
+            bool result2 = userRegistration.validateEmail("sandeepshinde630@gmail.com");
+            Console.WriteLine(result2);
         }
     }
 }
